@@ -1,0 +1,8 @@
+appium_server: "http://127.0.0.1:4723"
+capabilities:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  deviceName: "d4bc9422"
+  browserName: "Chrome"
+  chromedriverExecutable: ".\\chromedriver\\chromedriver.exe"
+  noReset: true
